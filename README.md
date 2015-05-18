@@ -10,7 +10,8 @@ PyTex2png is a Latex to png convertor. It uses a c++ module written by Bruno Bac
 + To run the code issue the command: 
 
 ```python
-    python pytex2png pytex.py <latex_source_file_path> <png_output_path> [BOOLEAN]```
+    python pytex2png pytex.py <latex_source_file_path> <png_output_path> [BOOLEAN]
+```
 
 ### Running the example code
 
