@@ -16,7 +16,11 @@ PyTex2png is a Latex to png convertor. It uses a c++ module written by Bruno Bac
 ### Running the example code
 
 
-In the `examples` folder you will find multiple text files contating LaTeX code. The file `examples.py` will convert every file in the `examples` folder and covert the LaTeX code to a png file. The output png file will have transperant background and white text. You can see the examples code output in the `output` folder. 
+In the `examples` folder you will find multiple text files contating LaTeX code. The file `examples.py` will convert every file in the `examples` folder and covert the LaTeX code to a png file. The output png file will have transperant background and white text. You can see the examples code output in the `output` folder. To run the example issue this command:
+
+```python
+    python example.py
+```
 
 ## Disclaimer 
 
