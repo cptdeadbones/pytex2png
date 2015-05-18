@@ -37,3 +37,10 @@ This code is distrubted under the [GNU General Public License](http://www.gnu.or
 - Make the output text code customiziable
 - Create a setup file
 - Port the code to non-Linux machines
+
+## Contact 
+
+If you have any private comments you can email me: cpt@thelivingpearl.com
+
+[Another [LivingPearl Project](http://www.thelivingpearl.com)
+
