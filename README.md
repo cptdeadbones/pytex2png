@@ -22,10 +22,11 @@ In the `examples` folder you will find multiple text files contating LaTeX code.
     python example.py
 ```
 
-## Disclaimer 
+## Disclaimers
 
 
-This code was devloped and tested on a Linux based system. I have no idea if it will work on another system. If you have tested it on another system, please let me know. 
+1. This code was devloped and tested on a Linux based system. I have no idea if it will work on another system. If you have tested it on another system, please let me know. 
+2. I have tested the script on a select few LaTeX snippets. It might not work for every Math LaTeX command. From the sample I selected it worked on all. 
 
 ## License
 
