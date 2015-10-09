@@ -49,7 +49,7 @@ def main(args):
 	
 	# handle command line args usage
 	if(len(args) < 2) or (len(args) > 3):
-		print "usage: pytex.py <latex_source_file_path> <png_output_path> [BOOLEAN]"
+		print "usage: pytex2png.py <latex_source_file_path> <png_output_path> [BOOLEAN]"
 	else:
 	
 		# check if display flag is set
